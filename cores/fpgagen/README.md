@@ -10,7 +10,7 @@ The core's main features
     - VGA
     - SCART RGB (TV)
     - YPbPr component
-  - 3/6 buttons controller support
+  - 3/6 buttons controller support (only on USB devices)
   - SEGA Mouse
   - Lightgun support (single Menacer or single/dual Justifiers via mice)
   - SVP chip for Virtua Racing (in separate downloadable core)
